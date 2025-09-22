@@ -1,7 +1,9 @@
 {
-  "functions": {
-    "api/send-telegram.js": {
-      "runtime": "nodejs18.x"
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/enviar-telegrama.js",
+      "use": "@vercel/node"
     }
-  }
+  ]
 }
