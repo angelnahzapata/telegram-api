@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/enviar-telegrama.js",
+      "src": "api/send-telegram.js",
       "use": "@vercel/node"
     }
   ]
