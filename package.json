@@ -1,0 +1,14 @@
+{
+  "name": "telegram-api-cocteleria",
+  "version": "1.0.0",
+  "description": "API para enviar pedidos por Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.x"
+  }
+}
